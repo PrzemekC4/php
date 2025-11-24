@@ -1,0 +1,8 @@
+<html>
+
+<p>Walidacja formularza przez przegladarke</p>
+
+<form action="write2DB.php" method="post">
+    <input type="text" name="fname" required>
+    <input type="submit" value="Zapisz w BD">
+</form>
